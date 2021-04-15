@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WN6xCC6Ft8R9PwyQjkreLdVH74mSzHakZZ2j17WtRF9VvzQMcBT4KeH7cyB9+ZlkEBXdf8rj9KSr1utPo4E/6A==",
+  "success": true,
+  "projectFilePath": "/Users/mfturkcanoglu/Projects/zxingdecoder/zxingdecoder/zxingdecoder.csproj",
+  "expectedPackageFiles": [
+    "/Users/mfturkcanoglu/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/mfturkcanoglu/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/mfturkcanoglu/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64/runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512",
+    "/Users/mfturkcanoglu/.nuget/packages/sixlabors.imagesharp/1.0.3/sixlabors.imagesharp.1.0.3.nupkg.sha512",
+    "/Users/mfturkcanoglu/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512",
+    "/Users/mfturkcanoglu/.nuget/packages/zxing.net/0.16.6/zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,207 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "zxingdecoder/1.0.0": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "1.0.3",
+          "System.Drawing.Common": "5.0.2",
+          "ZXing.Net": "0.16.6",
+          "runtime.osx.10.10-x64.CoreCompat.System.Drawing": "5.8.64"
+        },
+        "runtime": {
+          "zxingdecoder.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0": {},
+      "Microsoft.Win32.SystemEvents/5.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "runtime.osx.10.10-x64.CoreCompat.System.Drawing/5.8.64": {
+        "runtime": {
+          "lib/netstandard2.0/runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll": {
+            "assemblyVersion": "5.8.64.0",
+            "fileVersion": "5.8.64.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/libcairo.2.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libfontconfig.1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libfreetype.6.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libgdiplus-lighthouse.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libgdiplus.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libgif.7.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libglib-2.0.0.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libintl.8.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libjpeg.9.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libpcre.1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libpixman-1.0.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libpng16.16.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libtiff.5.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "System.Drawing.Common/5.0.2": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "5.0.0.2",
+            "fileVersion": "5.0.421.11614"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.2",
+            "fileVersion": "5.0.421.11614"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.2",
+            "fileVersion": "5.0.421.11614"
+          }
+        }
+      },
+      "ZXing.Net/0.16.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/zxing.dll": {
+            "assemblyVersion": "0.16.6.0",
+            "fileVersion": "0.16.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zxingdecoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VyPlqzH2wavqquTcYpkIIAQ6WdenuKoFN0BdYBbCWsclXacSOHNQn66Gt4z5NBqEYW0FAPm5rlvki9ZiCij5xQ==",
+      "path": "microsoft.netcore.platforms/5.0.0",
+      "hashPath": "microsoft.netcore.platforms.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bh6blKG8VAKvXiLe2L+sEsn62nc1Ij34MrNxepD2OCrS5cpCwQa9MeLyhVQPQ/R4Wlzwuy6wMK8hLb11QPDRsQ==",
+      "path": "microsoft.win32.systemevents/5.0.0",
+      "hashPath": "microsoft.win32.systemevents.5.0.0.nupkg.sha512"
+    },
+    "runtime.osx.10.10-x64.CoreCompat.System.Drawing/5.8.64": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ey7xQgWwixxdrmhzEUvaR4kxZDSQMWQScp8ViLvmL5xCBKG6U3TaMv/jzHilpfQXpHmJ4IylKGzzMvnYX2FwHQ==",
+      "path": "runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64",
+      "hashPath": "runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oRmZEITad+0tL22ZfAbLps6doDV+Z0/oH0dtXLpIBwn1sgai3QxxDQPjohHiDeUp/CTzRKVrFFbc4ZITnL2UBg==",
+      "path": "sixlabors.imagesharp/1.0.3",
+      "hashPath": "sixlabors.imagesharp.1.0.3.nupkg.sha512"
+    },
+    "System.Drawing.Common/5.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rvr/M1WPf24ljpvvrVd74+NdjRUJu1bBkspkZcnzSZnmAUQWSvanlQ0k/hVHk+cHufZbZfu7vOh/vYc0q5Uu/A==",
+      "path": "system.drawing.common/5.0.2",
+      "hashPath": "system.drawing.common.5.0.2.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0+6EcJ7Ve1BocwqvqpAmgMa7xF3wxqROcM3KvAE6WGNIqXLA5YEziLjRX+kKYVrcttlFRz1IaoRSzt/o6Ttviw==",
+      "path": "zxing.net/0.16.6",
+      "hashPath": "zxing.net.0.16.6.nupkg.sha512"
+    }
+  }
+}

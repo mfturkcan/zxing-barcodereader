@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DEC736A9-902A-4BBC-99E2-4EFDCAFA646A}|Default">
+  <MonoDevelop.Ide.ItemProperties.zxingdecoder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zxingdecoder/QRReader.cs">
+    <Files>
+      <File FileName="zxingdecoder/QRReader.cs" Line="41" Column="18" />
+      <File FileName="zxingdecoder/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zxingdecoder" expanded="True">
+            <Node name="zxingdecoder" expanded="True">
+              <Node name="QRReader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
